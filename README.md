@@ -1,7 +1,7 @@
 # Hello World 👋
 
 ```yaml
-apiVersion: v48
+apiVersion: v20
 kind: Human
 metadata:
   name: Douglas Cabrera
