@@ -1,7 +1,7 @@
-# Hello World 👋
+# 👋 Hello World
 
 ```yaml
-apiVersion: v20
+apiVersion: v1
 kind: Human
 metadata:
   name: Douglas Cabrera
@@ -9,47 +9,77 @@ metadata:
     - cabrera-evil
     - cabrera_dev
     - cabrera_code
-  description: Fullstack Developer
+  description: Fullstack Developer | Backend Specialist | Tech Enthusiast
   location: El Salvador
   languages:
-    - Spanish
-    - English
+    - Spanish (Native)
+    - English (Professional)
 spec:
-  purpose: Help others and make money
-  job:
-    - title: Backend Developer
-      company: Betacode.dev
-      location: Remote
-  tech:
-    - JavaScript
-    - TypeScript
-    - Node.js
-    - Express.js
-    - Nest.js
-    - Strapi
-    - MongoDB
-    - PostgreSQL
-    - MySQL
-    - Redis
-    - Socket.io
-    - React.js
-    - Next.js
-    - Docker
-    - Kubernetes
-    - Git
-  locations:
-    - type: Homepage
-      where: cabrera-dev.com
-    - type: GitHub
-      where: github.com/cabrera-evil
-    - type: Gitlab
-      where: gitlab.com/cabrera-evil
-    - type: DockerHub
-      where: hub.docker.com/u/cabreraevil
-    - type: npm
-      where: npmjs.com/~cabrera-evil
-    - type: LinkedIn
-      where: linkedin.com/in/cabrera-evil
+  profile:
+    mission:
+      - Help others through technology
+      - Build scalable, reliable, and performant systems
+      - Continuously learn and improve
+    values:
+      - Collaboration
+      - Innovation
+      - Problem-solving
+  career:
+    current:
+      - role: Backend Developer
+        company: Betacode.dev
+        type: Remote
+      - role: Freelancer
+        company: Cabrera Dev
+        type: Remote
+  tech-stack:
+    programming-languages:
+      - JavaScript
+      - TypeScript
+    backend:
+      frameworks:
+        - Node.js
+        - Express.js
+        - Nest.js
+        - Strapi
+    databases:
+      relational:
+        - PostgreSQL
+        - MySQL
+      non-relational:
+        - MongoDB
+        - Redis
+    frontend:
+      frameworks:
+        - React.js
+        - Next.js
+    devops:
+      tools:
+        - Docker
+        - Kubernetes
+        - Git
+    additional:
+      - Socket.io
+  links:
+    - platform: Homepage
+      url: https://cabrera-dev.com
+    - platform: GitHub
+      url: https://github.com/cabrera-evil
+    - platform: GitLab
+      url: https://gitlab.com/cabrera-evil
+    - platform: DockerHub
+      url: https://hub.docker.com/u/cabreraevil
+    - platform: npm
+      url: https://npmjs.com/~cabrera-evil
+    - platform: LinkedIn
+      url: https://linkedin.com/in/cabrera-evil
+    - platform: Twitter
+      url: https://twitter.com/cabrera_code
+status:
+  hobbies:
+    - Passionate about Kubernetes and cloud-native technologies
+    - Enjoys learning and experimenting with new frameworks and tools
+  availability:
+    freelance: true
+    collaboration: Open to interesting projects
 ```
-
-🙋‍♀️ You can Ask-Me-Anything in my tweet [@cabrera_code](https://twitter.com/cabrera_code).
